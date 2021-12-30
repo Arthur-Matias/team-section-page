@@ -45,7 +45,7 @@
 
 ## :dart: About ##
 
-A nice team section page. Check the [live version]()
+A nice team section page. Check the [live version](https://arthur-matias.github.io/team-section-page/)
 
 ## :rocket: Technologies ##
 
